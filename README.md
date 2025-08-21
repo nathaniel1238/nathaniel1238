@@ -2,7 +2,7 @@
 
 **Computer Science Student @ Northeastern (Targetting Dec 2026 Graduation)**
 
-1+ years of experience across Platform/Infrastructure and Product Engineering
+1+ years of industry experience across Platform/Infrastructure and Product Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nathaniel--xie-blue?logo=linkedin)](https://linkedin.com/in/nathaniel-xie)
 [![Email](https://img.shields.io/badge/Email-xienathaniel%40gmail.com-red?logo=gmail)](mailto:xienathaniel@gmail.com)
