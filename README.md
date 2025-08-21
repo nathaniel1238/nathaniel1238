@@ -17,7 +17,7 @@
 
 **UKG – Software Engineer Intern** (May–Aug 2024)  
 
-**Boston University – Software Engineer Intern** (May–Aug 2024)  
+**Boston University – Software Engineer Intern** (May–Aug 2022)  
 
 ---
 
